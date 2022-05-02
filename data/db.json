@@ -1,0 +1,22 @@
+{
+   "articles": [
+      {
+         "id": "1",
+         "author": "Mario",
+         "title": "Welcome to the Site",
+         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique sit qui itaque esse, rem, maiores earum iure laudantium, fugit totam numquam dolor quasi reiciendis odio quidem pariatur voluptatem? Maxime, nisi."
+      },
+      {
+         "id": "2",
+         "author": "Bowser",
+         "title": "5 React Tips fopr Beginners",
+         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique sit qui itaque esse, rem, maiores earum iure laudantium, fugit totam numquam dolor quasi reiciendis odio quidem pariatur voluptatem? Maxime, nisi."
+      },
+      {
+         "id": "3",
+         "author": "Luigi",
+         "title": "How to build a creative page with CSS",
+         "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique sit qui itaque esse, rem, maiores earum iure laudantium, fugit totam numquam dolor quasi reiciendis odio quidem pariatur voluptatem? Maxime, nisi."
+      }
+   ]
+}
